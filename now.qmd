@@ -6,22 +6,15 @@ title: "Me now"
 
 Meet the locations in the Atacama Desert where we have been working with hydroponic crops and fog water:
 
-### Alto Patache, Iquique
+## Alto Patache, Iquique
 
 Atacama UC Station, part of UC Regional Centers 
 
 
-::: {.columns}
+![Atacama UC Station](./img/01-estacion-atacama-patache.JPEG)
 
-::: {.column width="50%"}
-![Atacama UC Station](img/01-estacion-atacama-patache.JPEG)
-:::
-
-::: {.column width="50%"}
-![Greenhouse in Station](img/02-greenhouse-patache.JPEG)
-:::
-
-:::
+![Greenhouse in Station](./img/02-greenhouse-patache.JPEG)
 
 
-### Falda Verde, Chañaral
+
+## Falda Verde, Chañaral 
