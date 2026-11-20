@@ -1,28 +1,33 @@
 ---
 title: "Ines Vilches"
-image:  img/me.jpg
+image:  img/me.JPEG
 toc: false
 about:
-  template: jolla
+  template: marquee
   image-shape: round
   image-width: 17em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/sara-acevedo-a5a869295/
+      href: www.linkedin.com/in/ine-vilches-f
     - text: GitHub
-      href: https://github.com/Saryace
+      href: https://github.com/inevilches
     - text: Email
       href: mailto:ibvilches@uc.cl
     - text: ORCID
-      href: https://orcid.org/0000-0003-3203-2106
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es
-    - text: X.com
-      href: https://x.com/saryace
+      href: https://orcid.org/0009-0001-2175-1095
+    - text: Instagram
+      href: https://www.instagram.com/agroine.ruta/ 
+      
 ---
 
-Hi! I am an Assistant Professor at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) and researcher at the Centre for Sustainable Urban Development, [CEDEUS](https://en.cedeus.cl/about-us/the-centre/). My research is focused on soil science, soil physics and soil data analysis, specifically in the urban environment. You can check my last publications in [ORCID](https://orcid.org/0000-0003-3203-2106) and [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es). Also, I’m the Editor-in-Chief of the [International Journal of Agriculture and Natural Resources IJANR](https://ojs.uc.cl/index.php/ijanr/index). IJANR is an open-access and public-good basis journal welcoming novelty and high-quality papers 📝
+Hi! I am a PhD student at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) since 2026 and member of the Atacama Desert UC Center [CDA](https://cda.uc.cl/). I am now beginning my PhD research after spending more than two years working on establishing hydroponic crops using fog water at two locations of the Atacama Desert: Alto Patache, Iquique and Falda Verde, Chañaral. 
 
-Also, I am developing R packages for the soil science community. [{infiltrodiscR}](https://github.com/cran/infiltrodiscR) for infiltration analysis is available on CRAN and [{ggsoiltexture}](https://github.com/Saryace/ggsoiltexture) for plotting soil texture is under development.
+From the second half of 2023 to the end of 2025 I worked with UC professor Francisco Albornoz, PhD, on the FONDECYT project 13220028 titled *"Establishing the basis for the use of fog water as the main source of irrigation water for agricultural production across the coastal Atacama Desert"* funded by ANID (Chile's National Agency for Research and Development). Through this project I had the opportunity to conduct scientific research related to water scarcity and work with local communities, including the "Atacama Fogcatchers association" in Chañaral.   
 
-If you want to see what I am doing lately, you can check my [Github account](https://github.com/Saryace) and the [me now](https://saryace.github.io/now) section!
+My background includes working for chilean and multinational companies on improving irrigation techniques, agricultural technology transfer and technologies such as irrigation control software, IoT sensors, drone imagery and shovelomics. I also have experience in seed production of crops such as maize, soybeans and sorghum, among others. I am very interested in ag-technology, water use efficiency and everything related to the desert.
+
+I also share my work, travels, and everyday experiences as a PhD student on Instagram, where you can follow a more personal and casual side of my journey.
+
+I like to share my work, travels and experiences as a PhD student on my [Instagram](https://www.instagram.com/agroine.ruta/) profile, where I can communicate in a more casual and approachable way and you can follow a more personal side of my journey.
+
+You can see some of my photos related with the proyect, the desert and more at the [me now](https://inevilches.github.io/) section!
