@@ -1,0 +1,21 @@
+
+
+/* Botones de redes sociales */
+.about-links .about-link {
+  background-color: #E5F2EC;
+  border: 1px solid #94C7B2;
+  border-radius: 12px;
+  color: #477D70;
+  padding: 10px 20px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+/* Efecto al pasar el cursor */
+.about-links .about-link:hover {
+  background-color: #477D70;
+  border-color: #477D70;
+  color: white;
+}
+
+

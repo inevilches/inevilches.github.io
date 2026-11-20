@@ -1,15 +1,21 @@
 
-/* Subtítulo bajo el nombre */
-#profile-subtitle {
-  margin-top: -2rem;
-  margin-bottom: 1rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  color: #666666;
+
+/* Botones de redes sociales */
+.about-links .about-link {
+  background-color: #E5F2EC;
+  border: 1px solid #94C7B2;
+  border-radius: 12px;
+  color: #477D70;
+  padding: 10px 20px;
+  font-weight: 500;
+  transition: all 0.2s ease;
 }
 
-/* Tamaño del texto de la biografía */
-.about-contents p {
-  font-size: 0.2rem;
-  line-height: 1.6;
+/* Efecto al pasar el cursor */
+.about-links .about-link:hover {
+  background-color: #477D70;
+  border-color: #477D70;
+  color: white;
 }
+
+
