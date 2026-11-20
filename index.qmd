@@ -1,0 +1,28 @@
+---
+title: "Ines Vilches"
+image:  img/me.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sara-acevedo-a5a869295/
+    - text: GitHub
+      href: https://github.com/Saryace
+    - text: Email
+      href: mailto:ibvilches@uc.cl
+    - text: ORCID
+      href: https://orcid.org/0000-0003-3203-2106
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es
+    - text: X.com
+      href: https://x.com/saryace
+---
+
+Hi! I am an Assistant Professor at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) and researcher at the Centre for Sustainable Urban Development, [CEDEUS](https://en.cedeus.cl/about-us/the-centre/). My research is focused on soil science, soil physics and soil data analysis, specifically in the urban environment. You can check my last publications in [ORCID](https://orcid.org/0000-0003-3203-2106) and [Google Scholar](https://scholar.google.com/citations?user=WJqqnIQAAAAJ&hl=es). Also, I’m the Editor-in-Chief of the [International Journal of Agriculture and Natural Resources IJANR](https://ojs.uc.cl/index.php/ijanr/index). IJANR is an open-access and public-good basis journal welcoming novelty and high-quality papers 📝
+
+Also, I am developing R packages for the soil science community. [{infiltrodiscR}](https://github.com/cran/infiltrodiscR) for infiltration analysis is available on CRAN and [{ggsoiltexture}](https://github.com/Saryace/ggsoiltexture) for plotting soil texture is under development.
+
+If you want to see what I am doing lately, you can check my [Github account](https://github.com/Saryace) and the [me now](https://saryace.github.io/now) section!
