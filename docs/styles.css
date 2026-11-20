@@ -1,0 +1,15 @@
+
+/* Subtítulo bajo el nombre */
+#profile-subtitle {
+  margin-top: -2rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #666666;
+}
+
+/* Tamaño del texto de la biografía */
+.about-contents p {
+  font-size: 0.2rem;
+  line-height: 1.6;
+}

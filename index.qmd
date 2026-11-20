@@ -3,7 +3,7 @@ title: "Ines Vilches"
 image:  img/me.JPEG
 toc: false
 about:
-  template: marquee
+  template: jolla
   image-shape: round
   image-width: 17em
   links:
@@ -19,6 +19,7 @@ about:
       href: https://www.instagram.com/agroine.ruta/ 
       
 ---
+### UC Agronomist and PhD Student {#profile-subtitle}
 
 Hi! I am a PhD student at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) since 2026 and member of the Atacama Desert UC Center [CDA](https://cda.uc.cl/). I am now beginning my PhD research after spending more than two years working on establishing hydroponic crops using fog water at two locations of the Atacama Desert: Alto Patache, Iquique and Falda Verde, Chañaral. 
 
