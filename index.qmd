@@ -9,7 +9,7 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: www.linkedin.com/in/ine-vilches-f
+      href: https://www.linkedin.com/in/ine-vilches-f/
     - text: GitHub
       href: https://github.com/inevilches
     - text: Email
